@@ -1,0 +1,115 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&family=Poppins:wght@300&display=swap");
+
+:root {
+  --color-blue: #066acd;
+  --color-white: #fff;
+  --color-darkblue: #0d75ec;
+  --border-grey: #aaa;
+  --color-black: #333;
+  --color-lightgrey: #c6c6c6;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "poppins", sans-serif;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: var(--color-blue);
+  display: grid;
+  place-items: center;
+}
+
+.container {
+  background-color: var(--color-white);
+  width: 500px;
+  padding: 10px;
+  border-radius: 5px;
+  /* position: absolute; */
+}
+
+.container h1 {
+  text-align: center;
+  font-size: 24px;
+  text-transform: uppercase;
+  font-family: none;
+}
+
+.newtask {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  padding: 30px 20px;
+}
+
+.newtask input {
+  width: 75%;
+  height: 45px;
+  padding: 12px;
+  color: var(--color-black);
+  font-weight: 500;
+  position: relative;
+  border-radius: 5px;
+  font-size: 15px;
+  border: 2px solid var(--border-grey);
+}
+
+.newtask input:focus {
+  outline: none;
+  border-color: var(--color-darkblue);
+}
+
+.newtask button {
+  position: relative;
+  float: right;
+  color: var(--color-white);
+  background: var(--color-black);
+  font-size: 16px;
+  font-weight: 500;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  width: 20%;
+  height: 45px;
+  border-radius: 5px;
+}
+
+.tasks {
+  display: flex;
+  align-items: baseline;
+  padding: 5px 20px;
+}
+
+.action-button {
+  padding: 5px 10px;
+  margin-left: 15px;
+  background-color: var(--color-lightgrey);
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+ul li {
+  list-style: none;
+}
+
+input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+.button-disabled {
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.text {
+  word-break: break-all;
+}
+
+input[type="checkbox"]:checked + .text {
+  text-decoration: line-through;
+}

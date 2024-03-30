@@ -82,3 +82,4 @@ Want Initial Tasks then add **initialTasks** to App.js tasks useState()
 ```react
 const [tasks, setTasks] = useState(initialTasks);
 ```
+![image-7](https://github.com/kumaresanrdeveloper/task-list-app/assets/162865903/07997d32-9fdb-47cf-b3be-85c93768c8d0)

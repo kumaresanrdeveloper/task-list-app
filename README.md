@@ -6,20 +6,28 @@ You can use this as your daily task reminder aswell.
 
 first you need to **clone** the Repositorie by using the command
 
-> git clone https://github.com/kumaresanrdeveloper/task-list-app
-> cd task-list-app
+```node
+git clone https://github.com/kumaresanrdeveloper/task-list-app
+cd task-list-app
+```
 
 and than you need to install node-modules by using the command
 
-> npm install
+```node
+npm install
+```
 
 if its now installed then add **_--force_**
 
-> npm install --force
+```node
+npm install --force
+```
 
 now start the app by using the command
 
-> npm run dev
+```node
+npm run dev
+```
 
 now your app is ready to view
 

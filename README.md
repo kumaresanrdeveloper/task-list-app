@@ -35,37 +35,43 @@ now your app is ready to view
 
 you can see initially the add button will be disable state.
 
-![image-1](./img/image-1.png)
+![image-1](https://github.com/kumaresanrdeveloper/task-list-app/assets/162865903/aafc8d3e-6017-4ebe-b5ec-5f85fab71f02)
+
 
 ---
 
 Enter text to the input field the add button will be enabled
 
-![image-2](./img/image-2.png)
+![image-2](https://github.com/kumaresanrdeveloper/task-list-app/assets/162865903/07792961-e051-4c88-af17-dd76d102c1b0)
+
 
 ---
 
 click the add button and see the task list
 
-![image-3](./img/image-3.png)
+![image-3](https://github.com/kumaresanrdeveloper/task-list-app/assets/162865903/0636358d-bead-4ff6-817a-0dc47021655a)
+
 
 ---
 
 you can Edit the text by clicking the Edit button
 
-![image-4](./img/image-4.png)
+![image-4](https://github.com/kumaresanrdeveloper/task-list-app/assets/162865903/cb8a21f4-017f-4aba-9076-b2c1c3dca43d)
+
 
 ---
 
 if the task is done then click check box or text
 
-![image-5](./img/image-5.png)
+![image-5](https://github.com/kumaresanrdeveloper/task-list-app/assets/162865903/4ffde5c9-f221-443a-ade1-0a48c452e7db)
+
 
 ---
 
 if you don't want the task then delete the task by clicking the delete button
 
-![image-6](./img/image-6.png)
+![image-6](https://github.com/kumaresanrdeveloper/task-list-app/assets/162865903/8e6404f6-0ec1-4d25-8622-7d458c07f435)
+
 
 ---
 

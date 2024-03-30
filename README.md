@@ -17,7 +17,7 @@ and than you need to install node-modules by using the command
 npm install
 ```
 
-if its now installed then add **_--force_**
+if its not installed then add **_--force_**
 
 ```node
 npm install --force
@@ -35,37 +35,37 @@ now your app is ready to view
 
 you can see initially the add button will be disable state.
 
-![image-1]('./img/image-1.png')
+![image-1](./img/image-1.png)
 
 ---
 
 Enter text to the input field the add button will be enabled
 
-![image-2]('./img/image-2.png')
+![image-2](./img/image-2.png)
 
 ---
 
 click the add button and see the task list
 
-![image-3]('./img/image-3.png')
+![image-3](./img/image-3.png)
 
 ---
 
 you can Edit the text by clicking the Edit button
 
-![image-4]('./img/image-4.png')
+![image-4](./img/image-4.png)
 
 ---
 
 if the task is done then click check box or text
 
-![image-5]('./img/image-5.png')
+![image-5](./img/image-5.png)
 
 ---
 
 if you don't want the task then delete the task by clicking the delete button
 
-![image-6]('./img/image-6.png')
+![image-6](./img/image-6.png)
 
 ---
 
